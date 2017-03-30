@@ -1,0 +1,4 @@
+2.- a) 2*2*2*2 = 16 casos b) 3*3*3*3 = 81 casos
+
+3.- Nivel de prueba: Integración, porque se pone a prueba una parte del sistema
+para probar si el conjunto de algunas partes del sistema funcionan correctamente.
